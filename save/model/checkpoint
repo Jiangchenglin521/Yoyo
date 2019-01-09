@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/minelab/jiangchenglin/chat/save/model/model.ckpt"
+all_model_checkpoint_paths: "/home/minelab/jiangchenglin/chat/save/model/model.ckpt"
